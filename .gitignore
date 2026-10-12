@@ -1,0 +1,14 @@
+# 教材插图目录（约 46MB，按你的选择排除）
+img/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
